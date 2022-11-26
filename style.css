@@ -1,0 +1,91 @@
+.container {
+  background: #0d192c;
+  width: 100%;
+  height: 100vh;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.mainbox {
+  background: #15263f;
+  box-shadow: 0px 25px 50px rgba(0, 0, 0, 0.0952917);
+  border-radius: 15px;
+  width: 350px;
+  height: 596px;
+  padding: 24px;
+}
+
+.equilibrium {
+  height: 302px;
+  width: 302px;
+  border-radius: 8px;
+}
+.white {
+  color: white;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 28px;
+}
+.white:hover {
+  cursor: pointer;
+  color: cyan;
+}
+.text {
+  height: 52px;
+  width: 302px;
+  color: #8bacd9;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 26px;
+}
+.description {
+  margin-top: 10px;
+}
+.gverdit p,
+div {
+  display: inline-block;
+  vertical-align: top;
+}
+p.etherium {
+  color: cyan;
+}
+P.clock {
+  color: #8bacd9;
+}
+div.icon-2 {
+  margin-left: 110px;
+}
+div.gverdit {
+  margin-top: 50px;
+  border-bottom: 1px solid #2e405a;
+  padding-bottom: 20px;
+}
+img.lastphoto {
+  height: 33px;
+  width: 33px;
+}
+.esecdamorcha p {
+  display: inline-block;
+}
+p.lasttext {
+  color: #8bacd9;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+   margin-left: 16px;
+}
+.lasttext span {
+  color: white;
+}
+div.esecdamorcha {
+  margin-top: 30px;
+}
+div.megona{
+  margin-top: 10px;
+}
